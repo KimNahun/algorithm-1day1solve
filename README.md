@@ -1,4 +1,4 @@
-# algorithm - 1day1commit
+# algorithm - 1day1solve
 
 
 ### 알고리즘 개인 스터디
