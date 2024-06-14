@@ -4,12 +4,12 @@
 
 
 ### 참여자
+|[김나훈](https://github.com/KimNahun)|[송선권](https://github.com/songsunkook)|[허준기](https://github.com/dradnats1012)|[박성빈](https://github.com/ImTotem)|
+|:-:|:-:|:-:|:-:|
+|<img src="https://avatars.githubusercontent.com/u/118811606?s=400&u=faff2b0c42d5e258422485cc09b240d8c519623a&v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/21010656?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/112807640?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/46699595?v=4" width=150>|
+[anwlro0212](https://solved.ac/profile/anwlro0212)|[songsunkook](https://solved.ac/profile/songsunkook)|[dmb07301](https://github.com/dmb07301)|[p106305](https://solved.ac/profile/p106305)|
+|2024.06.11~|Coming Soon|Coming Soon|Coming Soon|
 
-|[김나훈](https://github.com/ykm989)|[송선권](https://github.com/KimNahun)|[허준기](https://github.com/Byeonjinha)|
-|:-:|:-:|:-:|
-|<img src="https://avatars.githubusercontent.com/u/118811606?s=400&u=faff2b0c42d5e258422485cc09b240d8c519623a&v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/21010656?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/112807640?v=4" width=150>|
-[anwlro0212](https://solved.ac/profile/anwlro0212)|[songsunkook](https://solved.ac/profile/songsunkook)|[dmb07301](https://github.com/dmb07301)
-|2024.06.11~|Coming Soon|Coming Soon|
 
 #### ☐ RULE
 
@@ -22,7 +22,3 @@
 
        4) 언어는 JAVA 
        
-       
-
-
-
