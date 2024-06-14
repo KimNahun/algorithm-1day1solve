@@ -1,6 +1,4 @@
 
-9cd52ac ([chore] READMD.md 수정)
-
 
 ## 알고리즘 스터디
 
